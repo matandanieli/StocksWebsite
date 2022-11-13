@@ -6,6 +6,10 @@
 
 Clone the repository and install the dependencies
 
+enter the project folder - 
+
+`cd stock-app`
+
 `npm install`
 
 Start the frontend application (stock-app) locally
