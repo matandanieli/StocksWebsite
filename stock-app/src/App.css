@@ -1,0 +1,9 @@
+html,
+body {
+  background: url("https://th.bing.com/th/id/R.1989b93580d62cd80bb51ba650e996a6?rik=kQQ2J7uVDTx4Cg&pid=ImgRaw&r=0")
+  no-repeat center center fixed; 
+  background-size: cover;
+  height: 100%;
+  width: 100%;
+  font-family: 'Montserrat', sans-serif;
+}
