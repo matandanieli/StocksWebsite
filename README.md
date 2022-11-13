@@ -12,17 +12,18 @@ Start the frontend application (stock-app) locally
 `yarn start`
 
 #### Available commands -
-`yarn start`: Start the app locally in your development environment, by default it will be in http://localhost:3000.
+##### `npm start`: Start the app locally in your development environment, by default it will be in http://localhost:3000.
 
-`yarn test`: Run tests using watch mode.
+##### `npm test`: Run tests using watch mode.
 
-`yarn lint`: Run linter.
+##### `npm lint`: Run linter.
 
 ### Setup (server)
 
 open the .sln file on visual studio. 
 
 press the `ctrl + alt + B` to build the project. 
+
 then run it locally to provide the client the data he need. 
 
 ## remarks - 
