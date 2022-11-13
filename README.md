@@ -6,7 +6,7 @@
 
 Clone the repository and install the dependencies
 
-`yarn install`
+`npm install`
 
 Start the frontend application (stock-app) locally
 `yarn start`
